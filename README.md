@@ -36,7 +36,7 @@ Sample containers running:
 localhost:8585
 
 ```
-Login: admin
+Login: admin@openmetadata.org
 Senha: admin
 ```
 
@@ -48,7 +48,7 @@ Sample Open Metadata Server:
 localhost:8087
 
 ```
-Login: admin@openmetadata.org
+Login: admin
 Senha: admin
 ```
 
@@ -66,7 +66,7 @@ https://youtu.be/1cvqmWLMMj4
 https://youtu.be/eYksqEEbiIQ
 
 ## Referências
-https://docs.open-metadata.org/v1.4.x
+https://docs.open-metadata.org/latest/quick-start/local-docker-deployment
 
 ## Developer
 | Desenvolvedor      | LinkedIn                                   | Email                        | Portfólio                              |
