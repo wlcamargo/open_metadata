@@ -48,12 +48,12 @@ Sample Open Metadata Server:
 localhost:8087
 
 ```
-Login: admin
+Login: admin@openmetadata.org
 Senha: admin
 ```
 
 ## Conclusão
-Parabéns! Seu catálogo de dados está pronto para o uso
+Parabéns! Seu catálogo de dados está pronto para o uso.
 
 ## Tutoriais
 ### Versionamento de metadados
