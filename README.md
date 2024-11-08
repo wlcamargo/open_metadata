@@ -3,6 +3,9 @@
 ## Arquitetura
 ![image](assets/architecture.png)
 
+## Versão
+1.5.10
+
 ## Pré-requisitos
 * Docker
 
@@ -48,7 +51,7 @@ Sample Open Metadata Server:
 localhost:8087
 
 ```
-Login: admin
+Login: admin@open-metadata.org
 Senha: admin
 ```
 
