@@ -39,7 +39,7 @@ Sample containers running:
 localhost:8585
 
 ```
-Login: admin@openmetadata.org
+Login: admin@open-metadata.org
 Senha: admin
 ```
 
@@ -51,7 +51,7 @@ Sample Open Metadata Server:
 localhost:8087
 
 ```
-Login: admin@open-metadata.org
+Login: admin
 Senha: admin
 ```
 
